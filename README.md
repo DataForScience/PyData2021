@@ -10,7 +10,7 @@
 
 # Graphs For Data Science
 
-![Net_DBSCAN](https://raw.githubusercontent.com/DataForScience/Graphs4Sci/master/data/Moons4Sci.png)
+![Net_DBSCAN](https://raw.githubusercontent.com/DataForScience/PyData2021/master/data/Moons4Sci.png)
 
 Repository to accompany the [__Graphs For Data Science__](https://graphs4sci.substack.com/subscribe) tutorial at PyData Global 2021.
 
