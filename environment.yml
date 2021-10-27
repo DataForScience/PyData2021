@@ -1,4 +1,5 @@
 dependencies:
+  - wget
   - tqdm==4.50.2
   - Cartopy==0.18.0
   - pandas==1.2.2
